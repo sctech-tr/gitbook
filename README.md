@@ -1,10 +1,5 @@
 ---
-cover: https://rc24.xyz/goodies/wallpapers/WiiDiscSlotLight.jpg
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -19,4 +14,4 @@ layout:
 
 # 😀 welcome!
 
-this guide will teach you how to homebrew your wii. let's get started!!
+this guide will provide all the information about my website.
